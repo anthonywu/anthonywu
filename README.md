@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🫡
 
-<!--
-**anthonywu/anthonywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏝️ I'm currently taking a sabbatical after continuously working since 2004.
+- ✈️ Based in San Francisco but frequently traveling with family
+- 👨🏻‍💻 I’m contributing to OSS after a ~9 year OSS hiatus due to working at [🤫🤐](https://www.apple.com/)
+- 🌟 Frequently starring, cloning, and contributing to repos where Python ⅹ GenAI
+- 📫 DM @ [X](https://x.com/anthonywu) or [LinkedIn](https://www.linkedin.com/in/anthonywu/)
 
-Here are some ideas to get you started:
+## Brief History of Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| ⌛️ | 📄 |
+|:-|:-|
+| 2015-2024 |  Apple, Software Engineer, _Staff / ICT5_ |
+| 2011-2015 | 🌱 LearnSprout, Co-Founder & CTO |
+| 2008-2011 | ▶️ YouTube / Google, Software Engineer Tech Lead |
+| 2005-2008 | Varolii, Software Engineer, Services / Deployment, company later acquired by Nuance then Microsoft |
+| 2004-2005 | Intel, Software Engineer Intern |
