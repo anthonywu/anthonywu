@@ -1,12 +1,40 @@
-## 🫡
+## About Me
 
-Hello, I am:
+For over 20 years, everything I touch at work, I ship!
 
-- 🏝️ Currently taking a sabbatical after continuously working since 2004.
-- ✈️ Based in San Francisco, but frequently traveling.
+With a strong belief in _action begets information_ and always working with a sense of urgency, I help my teams compete and win.
+
+Currently:
+
+- 🏝️ Enjoying a sabbatical from full time work after continuously working since 2004
+- ✈️ Based in San Francisco, but frequently traveling
 - 👨🏻‍💻 Contributing to OSS after a ~9 year OSS hiatus due to working at [🤫🤐](https://www.apple.com/)
 - 🌟 Frequently starring, cloning, and contributing to repos w/Python, GenAI, LLM and Local-First software stacks
-- 📫 Available via DM @ [X](https://x.com/anthonywu) or [LinkedIn](https://www.linkedin.com/in/anthonywu/)
+
+## Open to Opportunities
+
+- **🤝🏼 Advisory**: Hourly fee. Video or SF in-person. Technical due diligence, architecture/code reviews, eng team building/hiring
+- **💼 Consulting**: Project-based pricing. Python/AI app architecture, AI/ML workflow
+- **🛠️ Fractional Engineer**: Early-stage startups needing technical leadership
+
+### Ideal Projects
+
+- 👨🏼‍🏫 Video or on-site training, limited scope and time engagement.
+- 🏗️ Startups needing fractional CTO/VPE leadership, i.e. bootstrap good practices into engineering cultures
+- 🔧 Companies modernizing infrastructure, i.e. upgrade runtimes, packaging and deploying into cloud services
+- 🚀 Teams building GenAI/LLM applications, i.e. technology selection, planning and scoping
+
+📫 DM @ [X Messages](https://x.com/anthonywu) or [LinkedIn](https://www.linkedin.com/in/anthonywu/)
+
+## 🏆 Notable Achievements
+
+- **Co-Founder/CTO of LearnSprout – Startup with Successful Exit**: [Acquired by Apple](https://www.bloomberg.com/news/articles/2016-01-28/apple-acquires-education-tech-startup-learnsprout) in 2015
+  - all team members hired
+  - transfered tech into production, no re-writes
+- **📚 Apple Education Software**: If your children uses Apple in Education, you are using [software](https://support.apple.com/guide/apple-school-manager/integrate-with-your-sis-axmff5b12e69/1/web/1) that originated from my house.
+- **🗺️ Apple Maps**: If you think Apple Maps has gotten better since 2019, I helped.
+- **🐍 Python Champion**: Championed Python as first-class programming language at Apple (2015-2024).
+- **📺 YouTube**: Engineered compliance systems. Earning [Google OC Award](https://www.quora.com/What-are-Google-OC-awards-and-how-are-they-earned) for technical work relating to [Viacom v. YouTube](https://en.wikipedia.org/wiki/Viacom_International_Inc._v._YouTube,_Inc.)
 
 ## Brief History of Work
 
