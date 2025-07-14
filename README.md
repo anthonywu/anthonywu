@@ -4,7 +4,11 @@ For over 20 years, everything I touch at work, I ship!
 
 With a strong belief in _action begets information_ and always working with a sense of urgency, I help my teams compete and win.
 
-Currently:
+My engineering philosophy is centered around agility: plan and execute in short cycles of hours or days.
+
+With rapid iteration and feedback loops, I help small and young teams can minimize "worked on the wrong thing" risk and hill climb to product market fit with small deltas.
+
+### Currently
 
 - 🏝️ Enjoying a sabbatical from full time work after continuously working since 2004
 - ✈️ Based in San Francisco, but frequently traveling
