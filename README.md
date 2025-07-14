@@ -6,13 +6,14 @@ With a strong belief in _action begets information_ and always working with a se
 
 My engineering philosophy is centered around agility: plan and execute in short cycles of hours or days.
 
-With rapid iteration and feedback loops, I help small and young teams can minimize "worked on the wrong thing" risk and hill climb to product market fit with small deltas.
+With rapid iteration and feedback loops, I help small and young teams can minimize "worked on the wrong thing" risk.
 
 ### Currently
 
 - 🏝️ Enjoying a sabbatical from full time work after continuously working since 2004
 - ✈️ Based in San Francisco, but frequently traveling
 - 👨🏻‍💻 Contributing to OSS after a ~9 year OSS hiatus due to working at [🤫🤐](https://www.apple.com/)
+- ✨ Evaluating every AI-assisted CLI and IDE available to find their strengths
 - 🌟 Frequently starring, cloning, and contributing to repos w/Python, GenAI, LLM and Local-First software stacks
 
 ## Open to Opportunities
