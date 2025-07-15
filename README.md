@@ -6,7 +6,7 @@ With a strong belief in _action begets information_ and always working with a se
 
 My engineering philosophy is centered around agility: plan and execute in short cycles of hours or days.
 
-With rapid iteration and feedback loops, I help small and young teams can minimize "worked on the wrong thing" risk.
+With rapid iteration and feedback loops, I help small and young teams minimize "worked on the wrong thing" risk.
 
 ### Currently
 
