@@ -21,6 +21,8 @@ With rapid iteration and feedback loops, I help small and young teams minimize "
 - **🤝🏼 Advisory**: Hourly fee. Video or SF in-person. Technical due diligence, architecture/code reviews, eng team building/hiring
 - **💼 Consulting**: Project-based pricing. Python/AI app architecture, AI/ML workflow
 - **🛠️ Fractional Engineer**: Early-stage startups needing technical leadership
+- **🏢 Full Time**: Only considering extremely good fits. Happy to explore.
+- **🚀 Co-Founder Opportunities**: Also seeking only extremely good fits. If we have mutuals, lets chat!
 
 ### Ideal Projects
 
