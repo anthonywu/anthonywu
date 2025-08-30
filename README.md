@@ -2,6 +2,10 @@
 
 For over 20 years, everything I touch at work, I ship!
 
+- Early career: Eng at YouTube during early scale up years at Google.
+- Co-Founder and CTO at LearnSprout, a Python data company acquired by Apple in 2016.
+- 4+ years embedded with an org of math/physics PhDs helping with their software and infrastructure.
+
 With a strong belief in _action begets information_ and always working with a sense of urgency, I help my teams compete and win.
 
 My engineering philosophy is centered around agility: plan and execute in short cycles of hours or days.
@@ -12,7 +16,7 @@ With rapid iteration and feedback loops, I help small and young teams minimize "
 
 - 🏝️ Enjoying a sabbatical from full time work after continuously working since 2004
 - ✈️ Based in San Francisco, but frequently traveling
-- 👨🏻‍💻 Contributing to OSS after a ~9 year OSS hiatus due to working at [🤫🤐](https://www.apple.com/)
+- 👨🏻‍💻 Contributing to OSS after a ~9 year OSS hiatus due to working at [ Big Fruit Inc](https://www.apple.com/)
 - ✨ Evaluating every AI-assisted CLI and IDE available to find their strengths
 - 🌟 Frequently starring, cloning, and contributing to repos w/Python, GenAI, LLM and Local-First software stacks
 
